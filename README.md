@@ -7,7 +7,7 @@ This is a simple address book application written in C. It allows you to add, se
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/address-book.git
+    git clone https://github.com/harshpatil01/Address-Book.git
     ```
 
 2. **Compile the Code:**
